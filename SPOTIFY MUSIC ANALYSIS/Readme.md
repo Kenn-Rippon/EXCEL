@@ -1,5 +1,7 @@
 # 🎧 Spotify Music Analytics Dashboard
+## 📊 Dashboard Preview
 
+![Spotify Music Analytics Dashboard](Spotify%20Music%20Analytics%20Dashboard.png)
 ## 📌 Project Overview
 
 This project presents an interactive **Spotify Music Analytics Dashboard** developed using **Microsoft Excel**.
